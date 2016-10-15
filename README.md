@@ -1,5 +1,10 @@
 # README #
 
+### What is the Project status? ###
+This project is unmaintained, since the extcv functionality is now included in VeraCrypt.
+If you can, [go and fetch VeraCrypt](https://veracrypt.codeplex.com)
+If you have to use TrueCrypt 7.1a for some reason, you can use this to extend your volumes. But take note that TrueCrypt contains unpatched bugs and security problems!
+
 ### What is this repository for? ###
 
 * This is a fork of extcv updated to work with TrueCrypt 7.1a
